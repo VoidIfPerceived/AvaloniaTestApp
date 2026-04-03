@@ -71,3 +71,4 @@
 /Users/sophi/Documents/Programming/personal/AvaloniaUITesting/AvaloniaTestApp/obj/Debug/net10.0/AvaloniaTestApp.pdb
 /Users/sophi/Documents/Programming/personal/AvaloniaUITesting/AvaloniaTestApp/obj/Debug/net10.0/AvaloniaTestApp.genruntimeconfig.cache
 /Users/sophi/Documents/Programming/personal/AvaloniaUITesting/AvaloniaTestApp/obj/Debug/net10.0/ref/AvaloniaTestApp.dll
+/Users/sophi/Documents/Programming/personal/AvaloniaUITesting/AvaloniaTestApp/obj/Debug/net10.0/AvaloniaTestApp.sourcelink.json

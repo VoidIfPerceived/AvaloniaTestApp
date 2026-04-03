@@ -5,5 +5,5 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="AvaloniaTestApp.MainWindow"
         Title="AvaloniaTestApp">
-    Welcome to Avalonia!
+    <Button HorizontalAlignment="Center">Calculate</Button>
 </Window>
