@@ -6,12 +6,14 @@
         x:Class="AvaloniaTestApp.MainWindow"
         Title="AvaloniaTestApp">
     <StackPanel>
-        <TextBlock
+        <Border Margin= "5" CornerRadius= "10"  Background= "LightBlue">
+            <TextBlock
             Margin= "5"
             FontSize= "24"
             HorizontalAlignment= "Center"
             Text= "Temperature Converter"
-        ></TextBlock>
+            ></TextBlock>
+        </Border>
 
         <Button HorizontalAlignment="Center">Calculate</Button>
     </StackPanel>
